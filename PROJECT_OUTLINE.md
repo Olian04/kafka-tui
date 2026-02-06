@@ -147,10 +147,10 @@ The visual design should be inspired by [k9s](https://github.com/derailed/k9s), 
 ## Implementation Phases
 
 ### Phase 1: Foundation
-- [ ] Project structure setup
-- [ ] Basic CLI setup with urfave/cli
-- [ ] Kafka client initialization
-- [ ] Basic bubbletea TUI skeleton
+- [x] Project structure setup
+- [x] Basic CLI setup with urfave/cli
+- [x] Kafka client initialization
+- [x] Basic bubbletea TUI skeleton
 
 ### Phase 2: Core Navigation
 - [ ] Tree navigation system
